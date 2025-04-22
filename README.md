@@ -6,13 +6,13 @@ This repository provides a pipeline to classify events from Higgs boson pair pro
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/atharphy/double_higgs_analysis.git
+   cd double_higgs_analysis
    ```
 
 2. Download the following CSV files:
-   - hh.csv from: link_1
-   - tt.csv from: link_2
+   - hh.csv from: https://drive.google.com/file/d/1dPQpChRBzXiG0yTrvx5a6WD2qm4h61io/view?usp=sharing
+   - tt.csv from: https://drive.google.com/file/d/1DREyeYmgJ6Egde_C1u8cGmfSUuAMmgmK/view?usp=drive_link
 
 3. Place both CSV files in the root directory of the repository (the same location as the notebooks).
 
@@ -59,5 +59,3 @@ This Python script contains helper functions for generating plots used during tr
 - A function to draw the ROC curve and compute the AUC.
 - A function to visualize training accuracy and loss over epochs.
 - A function to plot the neural network discriminant for signal and background events, comparing training and test sets.
-
-These functions are used within the notebooks and should not require direct modification unless additional customization is needed.
