@@ -11,8 +11,8 @@ This repository provides a pipeline to classify events from Higgs boson pair pro
    ```
 
 2. Download the following CSV files:
-   - hh.csv from: https://drive.google.com/file/d/1dPQpChRBzXiG0yTrvx5a6WD2qm4h61io/view?usp=sharing
-   - tt.csv from: https://drive.google.com/file/d/1DREyeYmgJ6Egde_C1u8cGmfSUuAMmgmK/view?usp=drive_link
+   - hh.csv from: [https://drive.google.com/file/d/1dPQpChRBzXiG0yTrvx5a6WD2qm4h61io/view?usp=sharing](https://drive.google.com/file/d/1dPQpChRBzXiG0yTrvx5a6WD2qm4h61io/view?usp=sharing)
+   - tt.csv from: [https://drive.google.com/file/d/1DREyeYmgJ6Egde_C1u8cGmfSUuAMmgmK/view?usp=drive_link](https://drive.google.com/file/d/1DREyeYmgJ6Egde_C1u8cGmfSUuAMmgmK/view?usp=sharing)
 
 3. Place both CSV files in the root directory of the repository (the same location as the notebooks).
 
